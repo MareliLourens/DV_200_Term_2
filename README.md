@@ -59,8 +59,7 @@ Another area where I would like to expand and enhance the project is in making i
 ### Mockup Video
 
 
-https://user-images.githubusercontent.com/109971278/230770574-3e270853-fc89-4135-88d1-3e389ddd4074.mp4
-
+https://github.com/MareliLourens/DV_200_Term_2/assets/109971278/c0c87e9d-11af-4751-833b-073ea2be0e49
 
 
 ## Conclusion
