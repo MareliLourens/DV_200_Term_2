@@ -100,7 +100,8 @@ https://github.com/MareliLourens/DV_200_Term_2/assets/109971278/c0c87e9d-11af-47
 
 ### Demonstration Video
 
-https://github.com/MareliLourens/DV_200_Term_2/assets/109971278/5a093dc7-7f53-4cc0-8c79-6c5ba0c09c64 <!-- Video quality reduced due to size of video. High quality link: https://drive.google.com/file/d/1orKJ2URXOWsUQ6UvXMDROT50xj3INszN/view?usp=sharing -->
+https://github.com/MareliLourens/DV_200_Term_2/assets/109971278/5a093dc7-7f53-4cc0-8c79-6c5ba0c09c64
+<!-- Video quality reduced due to size of video. High quality link: https://drive.google.com/file/d/1orKJ2URXOWsUQ6UvXMDROT50xj3INszN/view?usp=sharing -->
 
 
 
