@@ -1,16 +1,55 @@
-# Mareli Lourens Interactive Development 200 Term 2
+## <p align="center" style="text-decoration: none !important;padding:0;margin:0;">Mareli Lourens <br> 221119 <br> Interactive Development 200 - Term 2</p>
+
+<p align="center">
+  <img src="./assets/patient_logo.png" height="75" style="display: block; margin: 0 auto;">
+</p>
+
+## <p align="center" style="text-decoration: none !important;padding:0;margin:0;">Receptionist Dashboard</p>
+
+## Table of Contents
+
+* [About the Project](#about-the-project)
+  * [Product mockup](#product-mockup)
+  * [Project description](#project-description)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+* [Features and Functionality](#features-and-functionality)
+* [Concept Process](#concept-process)
+   * [Ideation](#ideation)
+   * [Wireframes](#wireframes)
+* [Development Process](#development-process)
+    * [Highlights](#highlights)
+    * [Challenges](#challenges)
+* [Future Implementation](#future-implementation)
+* [Final Outcome](#final-outcome)
+    * [Mockups](#mockups)
+    * [Video Demonstration](#video-demonstration)
+* [Conclusion](#conclusion)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
 
 ## About the project:
 
-A core feature of Web 2.0 that I find fascinating is the ability for users to upload and download content to the internet, enabling the creation of complex systems to manage large amounts of data in our day-to-day lives. This term, I was tasked with designing and developing a web management system for an anesthesiology practice, specifically catering to the needs of receptionists. The main objective of this application was to efficiently manage doctors, patients, and their appointments within the practice. To begin, I built the necessary databases and established the required relationships between them. Once the databases were in place, I delved into coding, aiming to handle significant data volumes while maintaining optimal efficiency. Additionally, I focused on creating intuitive and user-friendly visualizations that would facilitate easy exploration and management of the database through the website. This project provided a fulfilling opportunity to explore web development intricacies, database management, and user interface design, leveraging the capabilities of Web 2.0 to create a practical solution for medical practice management.
-<br><br>
-For this project, I utilized PHP and SQL to handle the backend functionalities, while leveraging advanced JavaScript, HTML, and CSS for the frontend development.
+### Product mockup:
+![Mockup](./Wireframes/product_mockup.png)
+
+### Project description:
+A core feature of Web 2.0 that I find fascinating is the ability for users to upload and download content to the internet, enabling the creation of complex systems to manage large amounts of data in our day-to-day lives. In this project, I tasked myself with designing and developing a web management system for an anesthesiology practice, specifically catering to the needs of receptionists. My main objective for this application was to efficiently manage doctors, patients, and their appointments within the practice. To begin, I built the necessary databases and established the required relationships between them. Once the databases were in place, I delved into coding, aiming to handle significant data volumes while maintaining optimal efficiency. Additionally, I focused on creating intuitive and user-friendly visualizations that would facilitate easy exploration and management of the database through the website. This project provided me with a fulfilling opportunity to explore web development intricacies, database management, and user interface design, leveraging the capabilities of Web 2.0 to create a practical solution for medical practice management.
+
+### Built with:
+This project is built with React and Node.js, as well as advanced Javascript and Chart.js.
+This project utilizes PHP and SQL to handle the backend functionalities, while leveraging advanced JavaScript, HTML, and CSS for the frontend development.
 
 ## Getting Started:
 
 ### Prerequisites:
 
 * [Xampp](https://www.apachefriends.org/)
+* [phpMyAdmin](https://www.phpmyadmin.net/)
 
 ## Features and Functionality:
 
@@ -62,7 +101,14 @@ Another area where I would like to expand and enhance the project is in making i
 https://github.com/MareliLourens/DV_200_Term_2/assets/109971278/c0c87e9d-11af-4751-833b-073ea2be0e49
 
 
+### Demonstration Video
+
+
+https://user-images.githubusercontent.com/109971278/230775565-568ab52f-46fa-4170-a28f-cec0b8478b82.mp4
+
+
 ## Conclusion
+
 This project has been an incredible learning experience for me, and I am truly grateful for the opportunity to work on it. Throughout the course of the project, I have learned so much, from technical skills to project management and collaboration.
 
 Working on this project has allowed me to put into practice many of the concepts and techniques I have learned in my studies, and it has also challenged me to expand my knowledge and skills. From developing the initial idea to designing and implementing the project, I have gained a deeper understanding of the software development process and the importance of effective communication and teamwork.
@@ -70,3 +116,17 @@ Working on this project has allowed me to put into practice many of the concepts
 I am particularly proud of the progress I have made in developing my programming skills. As someone who was relatively new to coding at the start of this project, I am thrilled with the progress I have made and the many new tools and techniques I have learned along the way. I have also gained a greater appreciation for the importance of testing and debugging, and how these skills are critical to developing high-quality software.
 
 Overall, this project has been an incredibly fulfilling experience, and I am eager to continue working on it and implementing new features and improvements in the future. I believe that this project has not only helped me to develop my technical skills, but has also given me valuable experience working in a team environment and managing a project from start to finish. I am excited to take these skills and experiences with me as I move forward in my career, and I am confident that they will serve me well in whatever challenges lie ahead.
+
+
+## Authors
+Mareli Lourens - [Find me on Github](https://github.com/MareliLourens)
+
+## Contact
+Mareli Lourens - [Email](mailto:221119@virtualwindow.co.za)
+<br>
+Project Link - https://github.com/MareliLourens/DV_200_Term_2.git
+
+## Acknowledgements
+* [Patient with anesthesia mask](https://www.freepik.com/free-vector/patient-with-anesthesia-mask_31135942.htm#query=oxygen%20therapy&position=0&from_view=keyword&track=ais) <!-- OW reference: brgfx. 2022. https://www.freepik.com/free-vector/patient-with-anesthesia-mask_31135942.htm#query=oxygen%20therapy&position=0&from_view=keyword&track=ais (Accessed 7 November 2023) -->
+* [Nurse anaesthetist cartoon character](https://www.vecteezy.com/vector-art/9375967-nurse-anaesthetist-cartoon-character) <!-- OW reference: Graphics RF. 2022. https://www.vecteezy.com/vector-art/9375967-nurse-anaesthetist-cartoon-character (Accessed 7 November 2023) -->
+* [Hand drawn flat profile icon](https://www.freepik.com/free-vector/hand-drawn-flat-profile-icon_17539361.htm#from_view=detail_alsolike) <!-- OW reference: freepik. 2021. https://www.freepik.com/free-vector/hand-drawn-flat-profile-icon_17539361.htm#from_view=detail_alsolike (Accessed 7 November 2023) -->
