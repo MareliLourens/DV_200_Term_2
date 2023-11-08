@@ -38,7 +38,6 @@
 A core feature of Web 2.0 that I find fascinating is the ability for users to upload and download content to the internet, enabling the creation of complex systems to manage large amounts of data in our day-to-day lives. In this project, I tasked myself with designing and developing a web management system for an anesthesiology practice, specifically catering to the needs of receptionists. My main objective for this application was to efficiently manage doctors, patients, and their appointments within the practice. To begin, I built the necessary databases and established the required relationships between them. Once the databases were in place, I delved into coding, aiming to handle significant data volumes while maintaining optimal efficiency. Additionally, I focused on creating intuitive and user-friendly visualizations that would facilitate easy exploration and management of the database through the website. This project provided me with a fulfilling opportunity to explore web development intricacies, database management, and user interface design, leveraging the capabilities of Web 2.0 to create a practical solution for medical practice management.
 
 ### Built with:
-This project is built with React and Node.js, as well as advanced Javascript and Chart.js.
 This project utilizes PHP and SQL to handle the backend functionalities, while leveraging advanced JavaScript, HTML, and CSS for the frontend development.
 
 ## Getting Started:
